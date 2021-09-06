@@ -1,8 +1,8 @@
 # mtr-calculator
 A basic MTR Calculator that calculates the MTR based on the salary input by the user.
 The CLI menu will give two options:
-* To calculate salary for default year(2020)
-* To calculate salary for a custom year
+* To calculate Marginal Tax Rate for default year(2020)
+* To calculate Marginal Tax Rate for a custom year
 
 To run this code (Windows): 
 `pip install -r requirements.txt`
